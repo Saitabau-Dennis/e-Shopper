@@ -1,30 +1,25 @@
-#Capstone-Project
 
-#🌟Ecommerce Web Application - Shop Online 🛍️
-![Screenshot 2023-12-10 164421](https://github.com/Saitabau-Dennis/Capstone-Project/assets/113549219/5c3e7dc3-bebb-46e9-bc2e-a3732d56099c)
+# Ecommerce Web Application - Shop Online
 
-Welcome to our ecommerce web application where you can shop online! Here is a detailed README file that provides you with the necessary information to set up and run the application.
+## Project Overview
 
-##Table of Contents
-Project Overview
-Features
-Contributing
-##Project Overview
-This web application provides an easy and convenient platform for online shopping. Our web application offers a wide range of products from different categories such as electronics, clothing, and more.
+This e-commerce web application provides a feature-rich online shopping experience. Users can browse and purchase products conveniently from our intuitive, mobile-friendly interface.
 
-The user-friendly interface ensures a seamless shopping experience, while the back-end technology guarantees a reliable and efficient service.
+The application is built using modern web development technologies including React, Node.js, MongoDB, and GraphQL. This delivers excellent performance, reliability, and scalability.
 
-##Features
-Our ecommerce web application offers a variety of features that cater to the needs of our customers:
+![Screenshot 2023-12-10 164421](https://github.com/Saitabau-Dennis/Capstone-Project/assets/113549219/84367d60-25f1-41a9-8c3e-ac79ca214c74)
 
-User Accounts: Customers can create their own user accounts, which allow them to keep track of their past orders, update their personal information, and save their preferred shopping locations.
 
-Search and Filter Functionality: The search bar and filter options make it easy for users to find specific products. Users can also sort products by various criteria such as price, relevance, or popularity.
+## Key Features
 
-Product Details Page: The product details page provides users with comprehensive information about each product, including a detailed description, images, customer reviews, and ratings.
+- **Responsive Design** - Fully responsive UI provides a seamless experience on all devices 
+- **User Accounts** - Customers can create accounts to save order history and manage preferences
+- **Product Catalog** - Browse products by category with sorting and filtering 
+- **Shopping Cart** - Add or remove items easily and view order total
+- **Checkout Process** - Secure checkout with multiple payment options  
 
-Shopping Cart and Checkout: The shopping cart allows users to easily manage their shopping cart by adding or removing items. The checkout process is secure and straightforward, ensuring a smooth shopping experience.
 
-Responsive Design: Our web application is designed to be fully responsive, ensuring compatibility and optimal user experience across various devices and screen sizes.
-##Contributing
-We welcome contributions to our project! If you have any ideas or suggestions for improvements, please feel free to open an issue or submit a pull request.
+## Technical Details
+
+- **Frontend** -HTML,CSS,JAVASCRIPT
+- **Backend** - Firebase
